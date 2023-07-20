@@ -1,0 +1,7 @@
+//ESTADOS EXEMPLOS
+export const SNACK_SUCESSO = "SNACK_SUCESSO";
+export const SNACK_ERROR = "SNACK_ERROR";
+export const LOADING = "LOADING";
+
+//ESTADOS PERSIST
+export const TESTING = "TESTING";
